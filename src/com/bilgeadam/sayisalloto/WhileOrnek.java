@@ -14,6 +14,7 @@ public class WhileOrnek {
 
             // Genelde bu unutulur
             // program sonsuz döngüye giriyor.
+
         }
 
     }
